@@ -1,0 +1,16 @@
+name: LobbySystem
+version: '${project.version}'
+main: net.chaotischesuppe.LobbySystem
+api-version: 1.17
+authors: [ SwoThey ]
+description: LobbySystem für ChaotischeSuppe
+website: play.ChaotischeSuppe.net
+
+
+
+commands:
+  spawn:
+    description: Du teleportierst dich zum Spawn
+    usage: /spawn
+    aliases:
+      - setspawn
